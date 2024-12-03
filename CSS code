@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 90px;
+    padding: 0px 50px;
+}
+.logo img{
+    height: 30px;
+    }
+
+.navi a{
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px 10px ;
+    font-weight: bold;
+}
+.icons img{
+    height: 30px;
+}
+article{
+    background-image: url(https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Model-3-Main-Hero-Desktop-NA.png);
+    height: 90vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+}
+.paara p,h1,a{
+    color: white;
+}
+article h1{
+    padding-top: 50px;
+    font-size: 70px;
+}
+article p{
+    padding-top: 5px;
+    font-size: 20px;
+}
+article a{
+    padding-bottom: 5px;
+    font-size: 35px;
+}
+.btn button{
+    padding: 10px 80px;
+    border-radius: 5px;
+    border: none;
+    font-weight: bold;
+    margin: 0px 5px;
+    position: relative;
+    top: 370px;
+}
+.btn button:first-child{
+    background-color: rgb(14, 14, 182);
+    color: white;
+}
