@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./tesla.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="https://www.freepnglogos.com/uploads/tesla-logo-png-20.png" alt="">
+        </div>
+        <div class="navi">
+            <a href="">Vehicles</a>
+            <a href="">Energy</a>
+            <a href="">Charger</a>
+            <a href="">Discover</a>
+            <a href="">Shop</a>
+            <a href="">We, Robot</a>
+        </div>
+        <div class="icons">
+            <img src="https://cdn-icons-png.flaticon.com/128/471/471664.png" alt="">
+            <img src="https://cdn-icons-png.flaticon.com/128/3083/3083741.png" alt="">
+            <img src="https://tse1.mm.bing.net/th?id=OIP.jixXH_Els1MXBRmKFdMQPAHaHa&pid=Api&rs=1&c=1&qlt=95&w=121&h=121" alt="">
+        </div>
+    </header>
+    <article>
+        <div class="paara">
+            <h1>Model 3</h1>
+            <a href="">0% APR Available</a>
+            <p>Lease Starting at $299/mo1</p>
+        </div>
+        <div class="btn">
+            <button>Order Now</button>
+            <button>Experience Model 3</button>
+        </div>
+    </article>
+</body>
+</html>
