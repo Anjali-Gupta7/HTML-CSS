@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+}
+
+header{
+    display: flex;
+    background-color: rgb(18, 98, 122);
+    height: 70px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 40px;
+
+}
+
+.search>input{
+    height: 35px;
+    width: 550px;
+    padding: 0px 40px;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    outline: none;
+}
+.search>img{
+    height: 20px;
+    position: relative;
+    left: 35px;
+    top: 6px;
+
+}
+.btn>select{
+    background-color: inherit;
+    font-size: 15px;
+    width: 120px;
+    border: none;
+    position: relative;
+    right: 15px;
+    color: white;
+
+}
+.btn>button{
+    background-color: crimson;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    font-size: 15px;
+    border-radius: 5px;
+}
+.logo>img{
+    position: relative;
+    left: 150px;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(240, 238, 238);
+    height: 40px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 50px;
+    
+}
+.left{
+    padding: 0px 20px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 20px;
+    
+}
+.right{
+    padding: 0px 20px;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 20px;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+}
+
+
+
+marquee>img{
+    margin: 5px;
+    border-radius: 10px;
+    
+}
+marquee{
+    background-color: aliceblue;
+}
+.s3{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 40px;
+    font-family: sans-serif;
+}
+.s3>a{
+    color: crimson;
+}
+section{
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+    padding: 10px 40px;
+
+}
+section img{
+    border-radius: 10px;
+    height: 330px;
+    width: 200px;
+}
+
+
+
+
+    
+
+
